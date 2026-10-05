@@ -1,0 +1,24 @@
+[submodule "dc-dc-buck-converter-simulink"]
+	path = dc-dc-buck-converter-simulink
+	url = https://github.com/kratos121407/dc-dc-buck-converter-simulink.git
+[submodule "dc-dc-boost-converter-simulink"]
+	path = dc-dc-boost-converter-simulink
+	url = https://github.com/kratos121407/dc-dc-boost-converter-simulink.git
+[submodule "dc-dc-buck-boost-converter-simulink"]
+	path = dc-dc-buck-boost-converter-simulink
+	url = https://github.com/kratos121407/dc-dc-buck-boost-converter-simulink.git
+[submodule "single-phase-sine-pwm-inverter"]
+	path = single-phase-sine-pwm-inverter
+	url = https://github.com/kratos121407/single-phase-sine-pwm-inverter.git
+[submodule "single-phase-step-controlled-inverter"]
+	path = single-phase-step-controlled-inverter
+	url = https://github.com/kratos121407/single-phase-step-controlled-inverter.git
+[submodule "single-phase-ac-voltage-controller-thyristor"]
+	path = single-phase-ac-voltage-controller-thyristor
+	url = https://github.com/kratos121407/single-phase-ac-voltage-controller-thyristor.git
+[submodule "three-phase-step-controlled-inverter"]
+	path = three-phase-step-controlled-inverter
+	url = https://github.com/kratos121407/three-phase-step-controlled-inverter.git
+[submodule "dc-motor-speed-control-pid"]
+	path = dc-motor-speed-control-pid
+	url = https://github.com/kratos121407/dc-motor-speed-control-pid.git
